@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rushi6457/auth-back.git"
+    "url": "git+https://github.com/raghavendra7992/auth-back.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/rushi6457/auth-back/issues"
+    "url": "https://github.com/raghavendra7992/auth-back/issues"
   },
-  "homepage": "https://github.com/rushi6457/auth-back#readme",
+  "homepage": "https://github.com/raghavendra7992/auth-back#readme",
   "dependencies": {
     "argon2": "^0.30.3",
     "cookie-parser": "^1.4.6",
